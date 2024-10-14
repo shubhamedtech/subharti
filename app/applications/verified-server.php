@@ -150,7 +150,7 @@ while ($row = mysqli_fetch_assoc($empRecords)) {
     "ID_Card" => $row['ID_Card'],
     "Admit_Card" => $row['Admit_Card'],
     "Exam" => $row['Exam'],
-    "ABC_ID" => $row['ABC_ID'],
+    "ABC_ID" => $row['ABC_ID']??"",
     "Pendency" => empty($row['Pendency']) ? 0 : (int) $row['Pendency'],
     "ID" => base64_encode($row['ID'] . 'W1Ebt1IhGN3ZOLplom9I'),
   );

@@ -494,7 +494,7 @@
                           </div>
                         </div>
                       </div>
-                      <?php if ($_SESSION['university_id'] == 0) { ?>
+                      <?php if ($_SESSION['university_id'] == 47) { ?>
                         <div class="row clearfix">
                           <div class="col-md-12">
                             <div class="form-group form-group-default">
@@ -596,7 +596,7 @@
                           </div>
                         </div>
                       </div>
-                      <?php if ($_SESSION['university_id'] == 0) { ?>
+                      <?php if ($_SESSION['university_id'] == 47) { ?>
                         <div class="row clearfix">
                           <div class="col-md-12">
                             <div class="form-group form-group-default">
@@ -699,7 +699,7 @@
                           </div>
                         </div>
                       </div>
-                      <?php if ($_SESSION['university_id'] == 0) { ?>
+                      <?php if ($_SESSION['university_id'] == 47) { ?>
                         <div class="row clearfix">
                           <div class="col-md-12">
                             <div class="form-group form-group-default">
@@ -801,7 +801,7 @@
                           </div>
                         </div>
                       </div>
-                      <?php if ($_SESSION['university_id'] == 0) { ?>
+                      <?php if ($_SESSION['university_id'] == 47) { ?>
                         <div class="row clearfix">
                           <div class="col-md-12">
                             <div class="form-group form-group-default">
@@ -903,7 +903,7 @@
                           </div>
                         </div>
                       </div>
-                      <?php if ($_SESSION['university_id'] == 0) { ?>
+                      <?php if ($_SESSION['university_id'] == 47) { ?>
                         <div class="row clearfix">
                           <div class="col-md-12">
                             <div class="form-group form-group-default">
